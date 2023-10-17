@@ -68,4 +68,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WeDiniz}/count.svg" /></p> 
 <br></div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF293B&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6BF2C1&height=120&section=footer"/>
