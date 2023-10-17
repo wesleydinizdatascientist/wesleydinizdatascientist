@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/WeDiniz/WeDiniz/blob/main/github_profile_banner.PNG" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wesleydinizdatascientist/wesleydinizdatascientist/blob/main/background_data_science.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">  Bãooo te ver por aqui ! 🤠 <br><br> Bem vindo ao meu repositório, aqui você vai encontrar diversos conteúdos relacionados as estruturas de <strong> Varejo Pessoa Física </strong> e <strong>Finanças</strong>, 
