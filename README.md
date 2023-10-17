@@ -1,34 +1,71 @@
-### Hi, nice to see you here
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/WeDiniz/WeDiniz/blob/main/github_profile_banner.PNG" />
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">  Bãooo te ver por aqui ! 🤠 <br><br> Bem vindo ao meu repositório, aqui você vai encontrar diversos conteúdos relacionados as estruturas de <strong> Varejo Pessoa Física </strong> e <strong>Finanças</strong>, 
+  porém caso sinta a necessidade, você também pode acessar a minha página no confluence e conferir as dicas e tutoriais relacionado aos principais temas do dia a dia. </p>&nbsp;
+
+
+
+<div align="center" style="margin-bottom:100px">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WeDiniz&show_icons=true&count_private=true&hide_border=true&title_color=FF293B&icon_color=7F151D&text_color=c9d1d9&bg_color=0d1117" alt="Wesley Diniz - Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeDiniz&layout=compact&hide_border=true&title_color=FF293B&text_color=7F151&bg_color=0d1117" />
+</div>
+
+[![Meus Commits](https://github-readme-activity-graph.vercel.app/graph?username=WeDiniz&bg_color=*****&color=D9D9D9&line=FF293B&point=7F151D&area=true&hide_border=true)]
+
+ 
+ &nbsp;
+ &nbsp;
+
+
+
+## Minhas stack's do dia a dia na ConectCar
+
+#### Linguagens de Programação:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/sql-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)&nbsp;
+
+<img src="https://github.com/WeDiniz/WeDiniz/blob/main/cartoon_darth_vader_star_wars.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### IDE's Mais Utilizadas:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/jupyter-E44C30?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+
+
+#### Datalake:
+
+![Redshift](https://img.shields.io/badge/amazonredshift-316192?style=for-the-badge&logo=amazonredshift&logoColor=white)&nbsp;
+![Amazons3](https://img.shields.io/badge/amazons3-4EA94B?style=for-the-badge&logo=amazons3&logoColor=white)&nbsp;
+
+#### Análise de dados:
+
+![Power BI](https://img.shields.io/badge/powerbi-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![Excel](https://img.shields.io/badge/excel-4EA94B?style=for-the-badge&logo=excel&logoColor=white)&nbsp;
+
+#### O que não pode faltar:
+
+![Github](https://img.shields.io/badge/github-%23333?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Confluence](https://img.shields.io/badge/confluence-4285F4?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+## Onde me encontrar?:
+
+<div> 
+<a href = "mailto:wesley.diniz@conectcar.com"> <img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+<a href="https://br.linkedin.com/in/wesleydinizdatascientist" target="_blank"><img src="https://img.shields.io/badge/-linkedin-4285F4?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  
+</div>&nbsp;&nbsp;
+ 
 
 <div align="center">
-  <a href="https://github.com/wesleydinizdatascientist">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleydinizdatascientist&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydinizdatascientist&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/474x/77/42/44/774244783125e5dd77c0d08420c7a6fd.jpg">
-</div>
+<br><p align="centre"><b>Total de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WeDiniz}/count.svg" /></p> 
+<br></div>
   
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- 
-</div>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF293B&height=120&section=footer"/>
