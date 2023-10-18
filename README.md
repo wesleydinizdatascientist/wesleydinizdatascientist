@@ -1,8 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/wesleydinizdatascientist/wesleydinizdatascientist/blob/main/background_data_science.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">  Bãooo te ver por aqui ! 🤠 <br><br> Bem vindo ao meu repositório, aqui você vai encontrar diversos conteúdos relacionados as estruturas de <strong> Varejo Pessoa Física </strong> e <strong>Finanças</strong>, 
-  porém caso sinta a necessidade, você também pode acessar a minha página no confluence e conferir as dicas e tutoriais relacionado aos principais temas do dia a dia. </p>&nbsp;
+<p align="center">  <strong>Code and coffee:</strong> the two things that keep this repository running ☕🤠 <br><br> Here, the portal to the future is open, and you are very welcome. In this space, data is the key that unlocks a world of possibilities. Join me on this journey of discovery and innovation, where the future is shaped by every line of code, 
+  Take a look at the projects, make your contributions, and let's together impact the world through the power of data. </p>&nbsp;
 
 
 
