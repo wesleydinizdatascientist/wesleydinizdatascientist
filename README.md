@@ -69,7 +69,7 @@
  
 
 <div align="center">
-<br><p align="centre"><b>Total de Visitantes</b></p>  
+<br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WeDiniz}/count.svg" /></p> 
 <br></div>
   
