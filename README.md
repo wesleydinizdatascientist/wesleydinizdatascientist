@@ -25,6 +25,11 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/sql-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)&nbsp;
+![R](https://img.shields.io/badge/r-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)&nbsp;
+![HTML](https://img.shields.io/badge/html-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)&nbsp;
+![CSS](https://img.shields.io/badge/css-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)&nbsp;
+
 
 <img src="https://github.com/WeDiniz/WeDiniz/blob/main/cartoon_darth_vader_star_wars.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
