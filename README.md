@@ -11,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeDiniz&layout=compact&hide_border=true&title_color=FF293B&text_color=7F151&bg_color=0d1117" />
 </div>
 
-![Meus Commits](https://github-readme-activity-graph.vercel.app/graph?username=WeDiniz&bg_color=*****&color=D9D9D9&line=FF293B&point=7F151D&area=true&hide_border=true)
+![Meus Commits](https://github-readme-activity-graph.vercel.app/graph?username=WeDiniz&bg_color=*****&color=D9D9D9&line=6BF2C1&point=6DF2F2&area=true&hide_border=true)
 
  
  &nbsp;
