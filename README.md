@@ -21,7 +21,7 @@
 
 ## Minhas stack's do dia a dia na ConectCar
 
-#### Linguagens de Programação:
+#### Uso no dia a dia:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/sql-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)&nbsp;
